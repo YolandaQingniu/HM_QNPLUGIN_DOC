@@ -1,2 +1,0 @@
-# HM_QNPLUGIN_DOC
-鸿蒙蓝牙SDK API说明文档
